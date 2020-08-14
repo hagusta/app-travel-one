@@ -1,0 +1,1478 @@
+[
+  {
+    "no": "No",
+    "nama": "Pelabuhan",
+    "kota": "Kabupaten-Kota",
+    "provinsi": "Propinsi"
+  },
+  {
+    "no": "1",
+    "nama": "Sinabang",
+    "kota": "SIMEULUE",
+    "provinsi": "NAD"
+  },
+  {
+    "no": "2",
+    "nama": "P. Banyak",
+    "kota": "ACEH SINGKIL",
+    "provinsi": "NAD"
+  },
+  {
+    "no": "3",
+    "nama": "Singkil",
+    "kota": "ACEH SINGKIL",
+    "provinsi": "NAD"
+  },
+  {
+    "no": "4",
+    "nama": "Labuhan Haji",
+    "kota": "ACEH SELATAN",
+    "provinsi": "NAD"
+  },
+  {
+    "no": "5",
+    "nama": "Meulaboh",
+    "kota": "ACEH BARAT",
+    "provinsi": "NAD"
+  },
+  {
+    "no": "6",
+    "nama": "Malahayati",
+    "kota": "ACEH BESAR",
+    "provinsi": "NAD"
+  },
+  {
+    "no": "7",
+    "nama": "Ulee Lheue",
+    "kota": "BANDA ACEH",
+    "provinsi": "NAD"
+  },
+  {
+    "no": "8",
+    "nama": "Balohan",
+    "kota": "SABANG",
+    "provinsi": "NAD"
+  },
+  {
+    "no": "9",
+    "nama": "Gn. Sitoli",
+    "kota": "NIAS",
+    "provinsi": "SUMUT"
+  },
+  {
+    "no": "10",
+    "nama": "Ajibata",
+    "kota": "SIMALUNGUN",
+    "provinsi": "SUMUT"
+  },
+  {
+    "no": "11",
+    "nama": "Prapat",
+    "kota": "SIMALUNGUN",
+    "provinsi": "SUMUT"
+  },
+  {
+    "no": "12",
+    "nama": "Sibolga",
+    "kota": "SIBOLGA",
+    "provinsi": "SUMUT"
+  },
+  {
+    "no": "13",
+    "nama": "Belawan (Ujung baru)",
+    "kota": "MEDAN",
+    "provinsi": "SUMUT"
+  },
+  {
+    "no": "14",
+    "nama": "P. Siberut",
+    "kota": "KEPULAUAN MENTAWAI",
+    "provinsi": "SUMBAR"
+  },
+  {
+    "no": "15",
+    "nama": "Sikakap",
+    "kota": "KEPULAUAN MENTAWAI",
+    "provinsi": "SUMBAR"
+  },
+  {
+    "no": "16",
+    "nama": "Tua Pejat",
+    "kota": "KEPULAUAN MENTAWAI",
+    "provinsi": "SUMBAR"
+  },
+  {
+    "no": "17",
+    "nama": "Padang",
+    "kota": "PADANG",
+    "provinsi": "SUMBAR"
+  },
+  {
+    "no": "18",
+    "nama": "Mumpa",
+    "kota": "INDRAGIRI HILIR",
+    "provinsi": "RIAU"
+  },
+  {
+    "no": "19",
+    "nama": "Rumbai Jaya",
+    "kota": "INDRAGIRI HILIR",
+    "provinsi": "RIAU"
+  },
+  {
+    "no": "20",
+    "nama": "Mengkapan",
+    "kota": "S I A K",
+    "provinsi": "RIAU"
+  },
+  {
+    "no": "21",
+    "nama": "Bengkalis",
+    "kota": "BENGKALIS",
+    "provinsi": "RIAU"
+  },
+  {
+    "no": "22",
+    "nama": "Sungai Pakning",
+    "kota": "BENGKALIS",
+    "provinsi": "RIAU"
+  },
+  {
+    "no": "23",
+    "nama": "Kuala Tungkal",
+    "kota": "TANJUNG JABUNG BARAT",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "24",
+    "nama": "Betung Berdarah",
+    "kota": "TEBO",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "25",
+    "nama": "Desa Pintas",
+    "kota": "TEBO",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "26",
+    "nama": "Kuamang Kuning",
+    "kota": "TEBO",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "27",
+    "nama": "Muara Tebo",
+    "kota": "TEBO",
+    "provinsi": "JAMBI"
+  },
+  {
+    "no": "28",
+    "nama": "Palembang",
+    "kota": "PALEMBANG",
+    "provinsi": "SUMSEL"
+  },
+  {
+    "no": "29",
+    "nama": "P. Enggano",
+    "kota": "BENGKULU UTARA",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "30",
+    "nama": "Pulai Bai",
+    "kota": "BENGKULU",
+    "provinsi": "BENGKULU"
+  },
+  {
+    "no": "31",
+    "nama": "Bakauheni",
+    "kota": "LAMPUNG SELATAN",
+    "provinsi": "LAMPUNG"
+  },
+  {
+    "no": "32",
+    "nama": "Panjang",
+    "kota": "BANDAR LAMPUNG",
+    "provinsi": "LAMPUNG"
+  },
+  {
+    "no": "33",
+    "nama": "Srengsem",
+    "kota": "BANDAR LAMPUNG",
+    "provinsi": "LAMPUNG"
+  },
+  {
+    "no": "34",
+    "nama": "Tanjung Pandan",
+    "kota": "BELITUNG",
+    "provinsi": "KEP.BANGBEL"
+  },
+  {
+    "no": "35",
+    "nama": "Tanjung Ru",
+    "kota": "BELITUNG",
+    "provinsi": "KEP.BANGBEL"
+  },
+  {
+    "no": "36",
+    "nama": "Kayu Arang",
+    "kota": "BANGKA BARAT",
+    "provinsi": "KEP.BANGBEL"
+  },
+  {
+    "no": "37",
+    "nama": "Muntok (Tanjung Kalian)",
+    "kota": "BANGKA BARAT",
+    "provinsi": "KEP.BANGBEL"
+  },
+  {
+    "no": "38",
+    "nama": "P. Lepar",
+    "kota": "BANGKA SELATAN",
+    "provinsi": "KEP.BANGBEL"
+  },
+  {
+    "no": "39",
+    "nama": "Sadai",
+    "kota": "BANGKA SELATAN",
+    "provinsi": "KEP.BANGBEL"
+  },
+  {
+    "no": "40",
+    "nama": "Toboali",
+    "kota": "BANGKA SELATAN",
+    "provinsi": "KEP.BANGBEL"
+  },
+  {
+    "no": "41",
+    "nama": "Manggar",
+    "kota": "BELITUNG TIMUR",
+    "provinsi": "KEP.BANGBEL"
+  },
+  {
+    "no": "42",
+    "nama": "Pangkal Pinang",
+    "kota": "PANGKAL PINANG",
+    "provinsi": "KEP.BANGBEL"
+  },
+  {
+    "no": "43",
+    "nama": "Tanjung Balai",
+    "kota": "KARIMUN",
+    "provinsi": "KEPRI"
+  },
+  {
+    "no": "44",
+    "nama": "Tanjung Uban",
+    "kota": "BINTAN",
+    "provinsi": "KEPRI"
+  },
+  {
+    "no": "45",
+    "nama": "Batam Center",
+    "kota": "B A T A M",
+    "provinsi": "KEPRI"
+  },
+  {
+    "no": "46",
+    "nama": "Telaga Punggur",
+    "kota": "B A T A M",
+    "provinsi": "KEPRI"
+  },
+  {
+    "no": "47",
+    "nama": "P. Kelapa",
+    "kota": "KEPULAUAN SERIBU",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "48",
+    "nama": "P. Pramuka",
+    "kota": "KEPULAUAN SERIBU",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "49",
+    "nama": "P. Tidung",
+    "kota": "KEPULAUAN SERIBU",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "50",
+    "nama": "P. Untung Jawa",
+    "kota": "KEPULAUAN SERIBU",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "51",
+    "nama": "Jakarta (Muara Angke)",
+    "kota": "JAKARTA UTARA",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "52",
+    "nama": "Marina Ancol",
+    "kota": "JAKARTA UTARA",
+    "provinsi": "DKI JAKARTA"
+  },
+  {
+    "no": "53",
+    "nama": "Majingklak",
+    "kota": "CIAMIS",
+    "provinsi": "JAWA BARAT"
+  },
+  {
+    "no": "54",
+    "nama": "Cilacap",
+    "kota": "CILACAP",
+    "provinsi": "JAWA TENGAH"
+  },
+  {
+    "no": "55",
+    "nama": "Kalipucang",
+    "kota": "CILACAP",
+    "provinsi": "JAWA TENGAH"
+  },
+  {
+    "no": "56",
+    "nama": "Jepara",
+    "kota": "JEPARA",
+    "provinsi": "JAWA TENGAH"
+  },
+  {
+    "no": "57",
+    "nama": "Karimunjawa",
+    "kota": "JEPARA",
+    "provinsi": "JAWA TENGAH"
+  },
+  {
+    "no": "58",
+    "nama": "Kendal",
+    "kota": "KENDAL",
+    "provinsi": "JAWA TENGAH"
+  },
+  {
+    "no": "59",
+    "nama": "Semarang",
+    "kota": "SEMARANG",
+    "provinsi": "JAWA TENGAH"
+  },
+  {
+    "no": "60",
+    "nama": "Ketapang",
+    "kota": "BANYUWANGI",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "61",
+    "nama": "Jangkar",
+    "kota": "SITUBONDO",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "62",
+    "nama": "Bawean",
+    "kota": "GRESIK",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "63",
+    "nama": "Gresik",
+    "kota": "GRESIK",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "64",
+    "nama": "Kamal",
+    "kota": "BANGKALAN",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "65",
+    "nama": "Kalianget",
+    "kota": "SUMENEP",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "66",
+    "nama": "P. Kangean",
+    "kota": "SUMENEP",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "67",
+    "nama": "Ujung",
+    "kota": "SURABAYA",
+    "provinsi": "JAWA TIMUR"
+  },
+  {
+    "no": "68",
+    "nama": "Ciwandan",
+    "kota": "CILEGON",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "69",
+    "nama": "Merak",
+    "kota": "CILEGON",
+    "provinsi": "BANTEN"
+  },
+  {
+    "no": "70",
+    "nama": "Gilimanuk",
+    "kota": "JEMBRANA",
+    "provinsi": "BALI"
+  },
+  {
+    "no": "71",
+    "nama": "Padang Bai",
+    "kota": "KARANG ASEM",
+    "provinsi": "BALI"
+  },
+  {
+    "no": "72",
+    "nama": "Benoa",
+    "kota": "DENPASAR",
+    "provinsi": "BALI"
+  },
+  {
+    "no": "73",
+    "nama": "Lembar",
+    "kota": "LOMBOK BARAT",
+    "provinsi": "NTB"
+  },
+  {
+    "no": "74",
+    "nama": "Senggigi",
+    "kota": "LOMBOK BARAT",
+    "provinsi": "NTB"
+  },
+  {
+    "no": "75",
+    "nama": "Kayangan",
+    "kota": "LOMBOK TIMUR",
+    "provinsi": "NTB"
+  },
+  {
+    "no": "76",
+    "nama": "Sape",
+    "kota": "BIMA",
+    "provinsi": "NTB"
+  },
+  {
+    "no": "77",
+    "nama": "Wara",
+    "kota": "BIMA",
+    "provinsi": "NTB"
+  },
+  {
+    "no": "78",
+    "nama": "Pototano",
+    "kota": "SUMBAWA BARAT",
+    "provinsi": "NTB"
+  },
+  {
+    "no": "79",
+    "nama": "Waingapu",
+    "kota": "SUMBA TIMUR",
+    "provinsi": "NTT"
+  },
+  {
+    "no": "80",
+    "nama": "Atapupu",
+    "kota": "BELU",
+    "provinsi": "NTT"
+  },
+  {
+    "no": "81",
+    "nama": "Teluk Gurita",
+    "kota": "BELU",
+    "provinsi": "NTT"
+  },
+  {
+    "no": "82",
+    "nama": "Bakalang",
+    "kota": "ALOR",
+    "provinsi": "NTT"
+  },
+  {
+    "no": "83",
+    "nama": "Baranusa",
+    "kota": "ALOR",
+    "provinsi": "NTT"
+  },
+  {
+    "no": "84",
+    "nama": "Kabir",
+    "kota": "ALOR",
+    "provinsi": "NTT"
+  },
+  {
+    "no": "85",
+    "nama": "Kalabahi",
+    "kota": "ALOR",
+    "provinsi": "NTT"
+  },
+  {
+    "no": "86",
+    "nama": "Maritaing",
+    "kota": "ALOR",
+    "provinsi": "NTT"
+  },
+  {
+    "no": "87",
+    "nama": "Balauring",
+    "kota": "LEMBATA",
+    "provinsi": "NTT"
+  },
+  {
+    "no": "88",
+    "nama": "Lewoleba",
+    "kota": "LEMBATA",
+    "provinsi": "NTT"
+  },
+  {
+    "no": "89",
+    "nama": "Larantuka",
+    "kota": "FLORES TIMUR",
+    "provinsi": "NTT"
+  },
+  {
+    "no": "90",
+    "nama": "Waiwerang",
+    "kota": "FLORES TIMUR",
+    "provinsi": "NTT"
+  },
+  {
+    "no": "91",
+    "nama": "Ende",
+    "kota": "ENDE",
+    "provinsi": "NTT"
+  },
+  {
+    "no": "92",
+    "nama": "Aimere",
+    "kota": "NGADA",
+    "provinsi": "NTT"
+  },
+  {
+    "no": "93",
+    "nama": "Pantai Baru",
+    "kota": "ROTE NDAO",
+    "provinsi": "NTT"
+  },
+  {
+    "no": "94",
+    "nama": "Rote",
+    "kota": "ROTE NDAO",
+    "provinsi": "NTT"
+  },
+  {
+    "no": "95",
+    "nama": "Labuhan Bajo",
+    "kota": "MANGGARAI BARAT",
+    "provinsi": "NTT"
+  },
+  {
+    "no": "96",
+    "nama": "P. Komodo",
+    "kota": "MANGGARAI BARAT",
+    "provinsi": "NTT"
+  },
+  {
+    "no": "97",
+    "nama": "Waikelo",
+    "kota": "SUMBA BARAT DAYA",
+    "provinsi": "NTT"
+  },
+  {
+    "no": "98",
+    "nama": "Marapokot",
+    "kota": "NAGEKEO",
+    "provinsi": "NTT"
+  },
+  {
+    "no": "99",
+    "nama": "Bolok – Kupang",
+    "kota": "KUPANG",
+    "provinsi": "NTT"
+  },
+  {
+    "no": "100",
+    "nama": "Hansisi",
+    "kota": "KUPANG",
+    "provinsi": "NTT"
+  },
+  {
+    "no": "101",
+    "nama": "Naikliu",
+    "kota": "KUPANG",
+    "provinsi": "NTT"
+  },
+  {
+    "no": "102",
+    "nama": "Raijua",
+    "kota": "KUPANG",
+    "provinsi": "NTT"
+  },
+  {
+    "no": "103",
+    "nama": "Seba",
+    "kota": "KUPANG",
+    "provinsi": "NTT"
+  },
+  {
+    "no": "104",
+    "nama": "Sulamu",
+    "kota": "KUPANG",
+    "provinsi": "NTT"
+  },
+  {
+    "no": "105",
+    "nama": "Kartiasa Barat",
+    "kota": "SAMBAS",
+    "provinsi": "KALBAR"
+  },
+  {
+    "no": "106",
+    "nama": "Kartiasa Timur",
+    "kota": "SAMBAS",
+    "provinsi": "KALBAR"
+  },
+  {
+    "no": "107",
+    "nama": "Tebas Kuala",
+    "kota": "SAMBAS",
+    "provinsi": "KALBAR"
+  },
+  {
+    "no": "108",
+    "nama": "Tebas Seberang",
+    "kota": "SAMBAS",
+    "provinsi": "KALBAR"
+  },
+  {
+    "no": "109",
+    "nama": "Tj. Harapan",
+    "kota": "SAMBAS",
+    "provinsi": "KALBAR"
+  },
+  {
+    "no": "110",
+    "nama": "Tl. Kalong",
+    "kota": "SAMBAS",
+    "provinsi": "KALBAR"
+  },
+  {
+    "no": "111",
+    "nama": "Tayan",
+    "kota": "SANGGAU",
+    "provinsi": "KALBAR"
+  },
+  {
+    "no": "112",
+    "nama": "Teraju",
+    "kota": "SANGGAU",
+    "provinsi": "KALBAR"
+  },
+  {
+    "no": "113",
+    "nama": "Semuntai",
+    "kota": "SINTANG",
+    "provinsi": "KALBAR"
+  },
+  {
+    "no": "114",
+    "nama": "Sekadau",
+    "kota": "SEKADAU",
+    "provinsi": "KALBAR"
+  },
+  {
+    "no": "115",
+    "nama": "Teluk Batang",
+    "kota": "KAYONG UTARA",
+    "provinsi": "KALBAR"
+  },
+  {
+    "no": "116",
+    "nama": "Rasaujaya",
+    "kota": "KUBU RAYA",
+    "provinsi": "KALBAR"
+  },
+  {
+    "no": "117",
+    "nama": "Pontianak Kota",
+    "kota": "PONTIANAK",
+    "provinsi": "KALBAR"
+  },
+  {
+    "no": "118",
+    "nama": "Siantan",
+    "kota": "PONTIANAK",
+    "provinsi": "KALBAR"
+  },
+  {
+    "no": "119",
+    "nama": "Kumai",
+    "kota": "KOTAWARINGIN BARAT",
+    "provinsi": "KALTENG"
+  },
+  {
+    "no": "120",
+    "nama": "Kuala Kapuas",
+    "kota": "KAPUAS",
+    "provinsi": "KALTENG"
+  },
+  {
+    "no": "121",
+    "nama": "Kuala Kapuas Seberang",
+    "kota": "KAPUAS",
+    "provinsi": "KALTENG"
+  },
+  {
+    "no": "122",
+    "nama": "P. Telo",
+    "kota": "KAPUAS",
+    "provinsi": "KALTENG"
+  },
+  {
+    "no": "123",
+    "nama": "P. Telo Seberang",
+    "kota": "KAPUAS",
+    "provinsi": "KALTENG"
+  },
+  {
+    "no": "124",
+    "nama": "Pulang Pisau",
+    "kota": "KAPUAS",
+    "provinsi": "KALTENG"
+  },
+  {
+    "no": "125",
+    "nama": "Kuala Pembuang",
+    "kota": "SERUYAN",
+    "provinsi": "KALTENG"
+  },
+  {
+    "no": "126",
+    "nama": "Kuala Pembuang Seberang",
+    "kota": "SERUYAN",
+    "provinsi": "KALTENG"
+  },
+  {
+    "no": "127",
+    "nama": "Kalawa",
+    "kota": "PULANG PISAU",
+    "provinsi": "KALTENG"
+  },
+  {
+    "no": "128",
+    "nama": "Palangkaraya",
+    "kota": "PALANGKA RAYA",
+    "provinsi": "KALTENG"
+  },
+  {
+    "no": "129",
+    "nama": "Palangkaraya Seberang",
+    "kota": "PALANGKA RAYA",
+    "provinsi": "KALTENG"
+  },
+  {
+    "no": "130",
+    "nama": "Kotabaru",
+    "kota": "KOTA BARU",
+    "provinsi": "KALSEL"
+  },
+  {
+    "no": "131",
+    "nama": "Tj. Serdang",
+    "kota": "KOTA BARU",
+    "provinsi": "KALSEL"
+  },
+  {
+    "no": "132",
+    "nama": "Cerbon",
+    "kota": "BARITO KUALA",
+    "provinsi": "KALSEL"
+  },
+  {
+    "no": "133",
+    "nama": "Marabahan",
+    "kota": "BARITO KUALA",
+    "provinsi": "KALSEL"
+  },
+  {
+    "no": "134",
+    "nama": "Batulicin",
+    "kota": "TANAH BUMBU",
+    "provinsi": "KALSEL"
+  },
+  {
+    "no": "135",
+    "nama": "Ancam",
+    "kota": "BULUNGAN",
+    "provinsi": "KALTIM"
+  },
+  {
+    "no": "136",
+    "nama": "Tanjung Selor",
+    "kota": "BULUNGAN",
+    "provinsi": "KALTIM"
+  },
+  {
+    "no": "137",
+    "nama": "Panajam",
+    "kota": "PENAJAM PASER UTARA",
+    "provinsi": "KALTIM"
+  },
+  {
+    "no": "138",
+    "nama": "Sembakung",
+    "kota": "TANA TIDUNG",
+    "provinsi": "KALTIM"
+  },
+  {
+    "no": "139",
+    "nama": "Kariangau Balikpapan",
+    "kota": "BALIKPAPAN",
+    "provinsi": "KALTIM"
+  },
+  {
+    "no": "140",
+    "nama": "Tarakan",
+    "kota": "TARAKAN",
+    "provinsi": "KALTIM"
+  },
+  {
+    "no": "141",
+    "nama": "Dago",
+    "kota": "KEPULAUAN SANGIHE",
+    "provinsi": "SULUT"
+  },
+  {
+    "no": "142",
+    "nama": "Pananaro",
+    "kota": "KEPULAUAN SANGIHE",
+    "provinsi": "SULUT"
+  },
+  {
+    "no": "143",
+    "nama": "Talaud",
+    "kota": "KEPULAUAN TALAUD",
+    "provinsi": "SULUT"
+  },
+  {
+    "no": "144",
+    "nama": "Siau",
+    "kota": "SIAU TAGULANDANG BIARO",
+    "provinsi": "SULUT"
+  },
+  {
+    "no": "145",
+    "nama": "Bitung",
+    "kota": "BITUNG",
+    "provinsi": "SULUT"
+  },
+  {
+    "no": "146",
+    "nama": "P. Lembeh",
+    "kota": "BITUNG",
+    "provinsi": "SULUT"
+  },
+  {
+    "no": "147",
+    "nama": "Banggai",
+    "kota": "BANGGAI KEPULAUAN",
+    "provinsi": "SULTENG"
+  },
+  {
+    "no": "148",
+    "nama": "Sabang",
+    "kota": "BANGGAI KEPULAUAN",
+    "provinsi": "SULTENG"
+  },
+  {
+    "no": "149",
+    "nama": "Salakan",
+    "kota": "BANGGAI KEPULAUAN",
+    "provinsi": "SULTENG"
+  },
+  {
+    "no": "150",
+    "nama": "Luwuk",
+    "kota": "BANGGAI",
+    "provinsi": "SULTENG"
+  },
+  {
+    "no": "151",
+    "nama": "Pagimana",
+    "kota": "BANGGAI",
+    "provinsi": "SULTENG"
+  },
+  {
+    "no": "152",
+    "nama": "Toli-toli",
+    "kota": "DONGGALA",
+    "provinsi": "SULTENG"
+  },
+  {
+    "no": "153",
+    "nama": "Wakai",
+    "kota": "TOJO UNA-UNA",
+    "provinsi": "SULTENG"
+  },
+  {
+    "no": "154",
+    "nama": "Taipa",
+    "kota": "PALU",
+    "provinsi": "SULTENG"
+  },
+  {
+    "no": "155",
+    "nama": "Pematata",
+    "kota": "SELAYAR",
+    "provinsi": "SULSEL"
+  },
+  {
+    "no": "156",
+    "nama": "Bira",
+    "kota": "BULUKUMBA",
+    "provinsi": "SULSEL"
+  },
+  {
+    "no": "157",
+    "nama": "Garongkong",
+    "kota": "BARRU",
+    "provinsi": "SULSEL"
+  },
+  {
+    "no": "158",
+    "nama": "Bajoe",
+    "kota": "BONE",
+    "provinsi": "SULSEL"
+  },
+  {
+    "no": "159",
+    "nama": "Siwa",
+    "kota": "SIDENRENG RAPPANG",
+    "provinsi": "SULSEL"
+  },
+  {
+    "no": "160",
+    "nama": "Pare-Pare",
+    "kota": "PARE-PARE",
+    "provinsi": "SULSEL"
+  },
+  {
+    "no": "161",
+    "nama": "Mawasangka",
+    "kota": "BUTON",
+    "provinsi": "SULTRA"
+  },
+  {
+    "no": "162",
+    "nama": "Tolandona",
+    "kota": "BUTON",
+    "provinsi": "SULTRA"
+  },
+  {
+    "no": "163",
+    "nama": "Tampo",
+    "kota": "MUNA",
+    "provinsi": "SULTRA"
+  },
+  {
+    "no": "164",
+    "nama": "Tondasi",
+    "kota": "MUNA",
+    "provinsi": "SULTRA"
+  },
+  {
+    "no": "165",
+    "nama": "Kolaka",
+    "kota": "KOLAKA",
+    "provinsi": "SULTRA"
+  },
+  {
+    "no": "166",
+    "nama": "Lenggara",
+    "kota": "KONAWE SELATAN",
+    "provinsi": "SULTRA"
+  },
+  {
+    "no": "167",
+    "nama": "Torobulu",
+    "kota": "KONAWE SELATAN",
+    "provinsi": "SULTRA"
+  },
+  {
+    "no": "168",
+    "nama": "Bambaea",
+    "kota": "BOMBANA",
+    "provinsi": "SULTRA"
+  },
+  {
+    "no": "169",
+    "nama": "Dongkala",
+    "kota": "BOMBANA",
+    "provinsi": "SULTRA"
+  },
+  {
+    "no": "170",
+    "nama": "Sikeli",
+    "kota": "BOMBANA",
+    "provinsi": "SULTRA"
+  },
+  {
+    "no": "171",
+    "nama": "Lasusua",
+    "kota": "KOLAKA UTARA",
+    "provinsi": "SULTRA"
+  },
+  {
+    "no": "172",
+    "nama": "Maligano",
+    "kota": "BUTON UTARA",
+    "provinsi": "SULTRA"
+  },
+  {
+    "no": "173",
+    "nama": "Kendari",
+    "kota": "KENDARI",
+    "provinsi": "SULTRA"
+  },
+  {
+    "no": "174",
+    "nama": "Bau Bau",
+    "kota": "BAU-BAU",
+    "provinsi": "SULTRA"
+  },
+  {
+    "no": "175",
+    "nama": "Gorontalo",
+    "kota": "GORONTALO",
+    "provinsi": "GORONTALO"
+  },
+  {
+    "no": "176",
+    "nama": "Mamuju",
+    "kota": "MAJENE",
+    "provinsi": "SULBAR"
+  },
+  {
+    "no": "177",
+    "nama": "Adaut",
+    "kota": "MALUKU TENGGARA BARAT",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "178",
+    "nama": "Ilwaki",
+    "kota": "MALUKU TENGGARA BARAT",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "179",
+    "nama": "Kisar",
+    "kota": "MALUKU TENGGARA BARAT",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "180",
+    "nama": "Larat",
+    "kota": "MALUKU TENGGARA BARAT",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "181",
+    "nama": "Saumlaki",
+    "kota": "MALUKU TENGGARA BARAT",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "182",
+    "nama": "Serwaru",
+    "kota": "MALUKU TENGGARA BARAT",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "183",
+    "nama": "Tepa",
+    "kota": "MALUKU TENGGARA BARAT",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "184",
+    "nama": "Wonreli",
+    "kota": "MALUKU TENGGARA BARAT",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "185",
+    "nama": "Elat",
+    "kota": "MALUKU TENGGARA",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "186",
+    "nama": "Haruku",
+    "kota": "MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "187",
+    "nama": "Hunimua",
+    "kota": "MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "188",
+    "nama": "Negeri Lima",
+    "kota": "MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "189",
+    "nama": "Pelau",
+    "kota": "MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "190",
+    "nama": "Saparua",
+    "kota": "MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "191",
+    "nama": "Umeputih",
+    "kota": "MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "192",
+    "nama": "Wailei",
+    "kota": "MALUKU TENGAH",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "193",
+    "nama": "Namlea",
+    "kota": "BURU",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "194",
+    "nama": "Tl. Bara",
+    "kota": "BURU",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "195",
+    "nama": "Benjina",
+    "kota": "KEPULAUAN ARU",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "196",
+    "nama": "Dobo",
+    "kota": "KEPULAUAN ARU",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "197",
+    "nama": "Waipirit",
+    "kota": "SERAM BAGIAN BARAT",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "198",
+    "nama": "Galala",
+    "kota": "AMBON",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "199",
+    "nama": "Pokka",
+    "kota": "AMBON",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "200",
+    "nama": "Tual",
+    "kota": "TUAL",
+    "provinsi": "MALUKU"
+  },
+  {
+    "no": "201",
+    "nama": "Sidangole",
+    "kota": "HALMAHERA BARAT",
+    "provinsi": "MALUT"
+  },
+  {
+    "no": "202",
+    "nama": "Subaim",
+    "kota": "HALMAHERA TENGAH",
+    "provinsi": "MALUT"
+  },
+  {
+    "no": "203",
+    "nama": "Mangole",
+    "kota": "KEPULAUAN SULA",
+    "provinsi": "MALUT"
+  },
+  {
+    "no": "204",
+    "nama": "Sanana",
+    "kota": "KEPULAUAN SULA",
+    "provinsi": "MALUT"
+  },
+  {
+    "no": "205",
+    "nama": "Taliabu",
+    "kota": "KEPULAUAN SULA",
+    "provinsi": "MALUT"
+  },
+  {
+    "no": "206",
+    "nama": "Babang",
+    "kota": "HALMAHERA SELATAN",
+    "provinsi": "MALUT"
+  },
+  {
+    "no": "207",
+    "nama": "Kantor Pelabuhan Lai Wui",
+    "kota": "HALMAHERA SELATAN",
+    "provinsi": "MALUT"
+  },
+  {
+    "no": "208",
+    "nama": "Labuha",
+    "kota": "HALMAHERA SELATAN",
+    "provinsi": "MALUT"
+  },
+  {
+    "no": "209",
+    "nama": "Saketa",
+    "kota": "HALMAHERA SELATAN",
+    "provinsi": "MALUT"
+  },
+  {
+    "no": "210",
+    "nama": "Daruba",
+    "kota": "HALMAHERA UTARA",
+    "provinsi": "MALUT"
+  },
+  {
+    "no": "211",
+    "nama": "Tobelo",
+    "kota": "HALMAHERA UTARA",
+    "provinsi": "MALUT"
+  },
+  {
+    "no": "212",
+    "nama": "Patani",
+    "kota": "HALMAHERA TIMUR",
+    "provinsi": "MALUT"
+  },
+  {
+    "no": "213",
+    "nama": "Bastiong",
+    "kota": "TERNATE",
+    "provinsi": "MALUT"
+  },
+  {
+    "no": "214",
+    "nama": "Payahe",
+    "kota": "TIDORE KEPULAUAN",
+    "provinsi": "MALUT"
+  },
+  {
+    "no": "215",
+    "nama": "Rum",
+    "kota": "TIDORE KEPULAUAN",
+    "provinsi": "MALUT"
+  },
+  {
+    "no": "216",
+    "nama": "Tidore",
+    "kota": "TIDORE KEPULAUAN",
+    "provinsi": "MALUT"
+  },
+  {
+    "no": "217",
+    "nama": "Kaimana",
+    "kota": "KAIMANA",
+    "provinsi": "PAPUA BARAT"
+  },
+  {
+    "no": "218",
+    "nama": "Manokwari",
+    "kota": "MANOKWARI",
+    "provinsi": "PAPUA BARAT"
+  },
+  {
+    "no": "219",
+    "nama": "Inanwatan",
+    "kota": "SORONG SELATAN",
+    "provinsi": "PAPUA BARAT"
+  },
+  {
+    "no": "220",
+    "nama": "Mogem",
+    "kota": "SORONG SELATAN",
+    "provinsi": "PAPUA BARAT"
+  },
+  {
+    "no": "221",
+    "nama": "Teminabuan",
+    "kota": "SORONG SELATAN",
+    "provinsi": "PAPUA BARAT"
+  },
+  {
+    "no": "222",
+    "nama": "Seget",
+    "kota": "SORONG",
+    "provinsi": "PAPUA BARAT"
+  },
+  {
+    "no": "223",
+    "nama": "Jeffman",
+    "kota": "RAJA AMPAT",
+    "provinsi": "PAPUA BARAT"
+  },
+  {
+    "no": "224",
+    "nama": "Kabare",
+    "kota": "RAJA AMPAT",
+    "provinsi": "PAPUA BARAT"
+  },
+  {
+    "no": "225",
+    "nama": "Kalobo",
+    "kota": "RAJA AMPAT",
+    "provinsi": "PAPUA BARAT"
+  },
+  {
+    "no": "226",
+    "nama": "Saonek",
+    "kota": "RAJA AMPAT",
+    "provinsi": "PAPUA BARAT"
+  },
+  {
+    "no": "227",
+    "nama": "Sorong",
+    "kota": "SORONG",
+    "provinsi": "PAPUA BARAT"
+  },
+  {
+    "no": "228",
+    "nama": "Merauke",
+    "kota": "MERAUKE",
+    "provinsi": "PAPUA"
+  },
+  {
+    "no": "229",
+    "nama": "Poo",
+    "kota": "MERAUKE",
+    "provinsi": "PAPUA"
+  },
+  {
+    "no": "230",
+    "nama": "Yahim (Penyeberangan Danau)",
+    "kota": "JAYAPURA",
+    "provinsi": "PAPUA"
+  },
+  {
+    "no": "231",
+    "nama": "Nabire",
+    "kota": "NABIRE",
+    "provinsi": "PAPUA"
+  },
+  {
+    "no": "232",
+    "nama": "Serui",
+    "kota": "YAPEN WAROPEN",
+    "provinsi": "PAPUA"
+  },
+  {
+    "no": "233",
+    "nama": "Biak",
+    "kota": "BIAK NUMFOR",
+    "provinsi": "PAPUA"
+  },
+  {
+    "no": "234",
+    "nama": "Numfor",
+    "kota": "BIAK NUMFOR",
+    "provinsi": "PAPUA"
+  },
+  {
+    "no": "235",
+    "nama": "Mapura Jaya",
+    "kota": "MIMIKA",
+    "provinsi": "PAPUA"
+  },
+  {
+    "no": "236",
+    "nama": "Pamako",
+    "kota": "MIMIKA",
+    "provinsi": "PAPUA"
+  },
+  {
+    "no": "237",
+    "nama": "Pamako II",
+    "kota": "MIMIKA",
+    "provinsi": "PAPUA"
+  },
+  {
+    "no": "238",
+    "nama": "Tanah Merah",
+    "kota": "BOVEN DIGOEL",
+    "provinsi": "PAPUA"
+  },
+  {
+    "no": "239",
+    "nama": "Asgon",
+    "kota": "MAPPI",
+    "provinsi": "PAPUA"
+  },
+  {
+    "no": "240",
+    "nama": "Kepi",
+    "kota": "MAPPI",
+    "provinsi": "PAPUA"
+  },
+  {
+    "no": "241",
+    "nama": "Senggo",
+    "kota": "MAPPI",
+    "provinsi": "PAPUA"
+  },
+  {
+    "no": "242",
+    "nama": "Agats",
+    "kota": "ASMAT",
+    "provinsi": "PAPUA"
+  },
+  {
+    "no": "243",
+    "nama": "Atsy",
+    "kota": "ASMAT",
+    "provinsi": "PAPUA"
+  },
+  {
+    "no": "244",
+    "nama": "Ewer",
+    "kota": "ASMAT",
+    "provinsi": "PAPUA"
+  },
+  {
+    "no": "245",
+    "nama": "Waren",
+    "kota": "WAROPEN",
+    "provinsi": "PAPUA"
+  }
+]
